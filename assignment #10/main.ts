@@ -1,4 +1,4 @@
-//Greetings
+//Greetings: Start with the array you used in Exercise 11, but instead of just printing each person’s name, print a message to them
 
 //names
 let names: string[] = ["Ali", "Bilal", "Ahmed", "Hanif", "Shayan" ,"Mazz"];

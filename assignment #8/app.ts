@@ -1,4 +1,4 @@
-//Adding Comments
+//Adding Comments to previous programs
 // Program written by Anas on 3 March 2024
 // This program stores a person's name in a variable and prints a personalized message to that person.
 
