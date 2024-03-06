@@ -3,7 +3,7 @@
 let guestList: string[] = ["Miss Hina", "Sir Zia", "Sir Daniyal"];
 
 let i: number = 0;
-// Print invitation message using a while loop
+// Print name and invitation message using a while loop
 while (i < guestList.length) {
     console.log(`Dear ${guestList[i]}, you're invited to dinner.`);
     i++;
