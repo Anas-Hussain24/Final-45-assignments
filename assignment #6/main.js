@@ -1,6 +1,6 @@
 "use strict";
-//Number Eight
-console.log(5 + 3);
-console.log(10 - 2);
-console.log(4 * 2);
-console.log(16 / 2);
+//Stripping Names
+let personName = "\t\n   Babar Azam   \t\n";
+console.log("Name with whitespace:", personName);
+let strippedName = personName.trim();
+console.log("Stripped name:", strippedName);

@@ -1,5 +1,8 @@
-//Number Eight : Write addition, subtraction, multiplication, and division operations that each result in the number 8
-console.log(5 + 3);
-console.log(10 - 2);
-console.log(4 * 2);
-console.log(16 / 2);
+//Stripping Names: Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
+
+
+let personName: string = "\t\n   Babar Azam   \t\n";
+console.log("Name with whitespace:", personName);
+
+let strippedName: string = personName.trim();
+console.log("Stripped name:", strippedName);

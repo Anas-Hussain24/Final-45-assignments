@@ -1,6 +1,6 @@
 "use strict";
-//Stripping Names
-let personName = "\t\n   Babar Azam   \t\n";
-console.log("Name with whitespace:", personName);
-let strippedName = personName.trim();
-console.log("Stripped name:", strippedName);
+//Famous Quote 2
+let quote = "Khudi ko kar buland itna, ke har taqdeer se pehle, Khuda bande se khud pooche, bata teri raza kya hai.";
+let famous_person = "Allama Iqbal";
+let message = `${famous_person} once said, "${quote}"`;
+console.log(message);
